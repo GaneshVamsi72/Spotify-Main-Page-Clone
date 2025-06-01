@@ -12,8 +12,7 @@ The goal of this project is to strengthen my foundational CSS concepts, includin
 
 ## 🚧 Status: Work In Progress
 
-⚠️ This project is **not yet complete** and **not fully responsive**.  
-Further improvements and mobile responsiveness will be added soon.
+⚠️ This project is **not yet complete** and **not fully responsive**.
 
 ---
 
